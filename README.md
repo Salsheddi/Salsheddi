@@ -81,7 +81,7 @@
 
 <div>
   <a href="mailto:shdanalsheddi@gmail.com">
-    <img src="https://github.com/Salsheddi/img/blob/main/imgs/gmail.png"  width = 48px />
+    <img src="https://raw.githubusercontent.com/4lena/img/main/imgs/gmail.png"  width = 48px />
   </a>
 
   <a href="https://Salsheddi.github.io/SHDN./">
