@@ -68,7 +68,7 @@
 <!-- let's connect! -->
 
 
-## <picture> <img align="left" src="https://raw.githubusercontent.com/4lena/img/main/imgs/contact.gif" width = 70px></picture> **Contact Me**
+##  **Contact Me** <picture> <img align="left" src="https://raw.githubusercontent.com/4lena/img/main/imgs/contact.gif" width = 70px></picture>
 <div>
   <a href="https://www.linkedin.com/in/shdn-alsheddi-629756227/">
     <img src="https://skillicons.dev/icons?i=linkedin" />
@@ -77,14 +77,12 @@
   <a href="https://twitter.com/sbmalsheddi" target="_blank">
     <img src="https://skillicons.dev/icons?i=twitter" />
   </a>
-</div>
-
-<div>
   <a href="mailto:shdanalsheddi@gmail.com">
     <img src="https://raw.githubusercontent.com/4lena/img/main/imgs/gmail.png"  width = 48px />
   </a>
-
   <a href="https://Salsheddi.github.io/SHDN./">
     <img src="https://raw.githubusercontent.com/4lena/img/main/imgs/web.png" width = 51px />
   </a>
 </div>
+
+
