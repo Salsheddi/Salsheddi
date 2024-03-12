@@ -4,7 +4,7 @@
 </p>
 
 <p>
-<a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=abcdef&size=20&lines=Welcome+to+my+GitHub+Profile!;I'm+an+IT+Student;I'm+Into...;<Data+Science/>;<Machine+Learning/>;<Web+Development/>;<UX|UI/>" /></a>
+<a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=abcdef&size=20&lines=Welcome+to+my+GitHub+Profile!;I'm+an+IT+Student;I'm+Into...;<Data+Science/>;<Machine+Learning/>;<VR+/AR/>;<UX|UI/>" /></a>
 </p>
 
 <!-- TABLE OF CONTENTS -->
@@ -35,7 +35,7 @@
 </details>
 
 <!-- get to know me -->
-## <picture><img src = "https://github.com/4lena/img/blob/main/imgs/about.gif" width = 40px></picture> **Get to Know me**
+## <picture><img src = "https://raw.githubusercontent.com/4lena/img/main/imgs/contact2.gif" width = 40px></picture> **Get to Know me**
 
 <picture> <img align="right" src="https://github.com/Salsheddi/img/blob/main/imgs/about2.gif" width = 300px></picture>
 - 🏫 I'm a fresh IT graduate from King Saud University.
@@ -66,7 +66,7 @@
 </p>
 
 <!-- let's connect! -->
-## <picture><img src = "https://github.com/Salshedii/img/blob/main/imgs/contact.gif" width = 70px></picture> **Let's Connect!**
+
 
 <picture> <img align="right" src="https://github.com/Salsheddi/img/blob/main/imgs/contact2.gif" width = 300px></picture>
 <div>
