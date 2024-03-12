@@ -46,7 +46,7 @@
 
 <!-- skills -->
 ## <picture><img src = "https://raw.githubusercontent.com/4lena/img/main/imgs/skills.gif" width = 50px></picture> **My Skills**
-[![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,js,php,mysql,mongodb,python,r,java,vscode,github,git,figma,idea&perline=9)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,,js,php,mysql,mongodb,python,r,java,vscode,github,git,figma,idea&perline=9)](https://skillicons.dev)
 
 <!-- my github progress -->
 ## <picture><img src = "https://raw.githubusercontent.com/4lena/img/main/imgs/progress.gif" width = 50px></picture> **My Github Progress**
