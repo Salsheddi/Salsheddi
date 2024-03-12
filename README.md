@@ -1,4 +1,4 @@
-![image](https://github.com/Salsheddi/Salsheddi/assets/105097222/996359fe-d1d5-405e-b8df-084f22660b90)<!-- INTRO -->
+<!-- INTRO -->
 <h1> Hey There, I'm SHDN! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> </h1>
 <p align='center'>
 </p>
