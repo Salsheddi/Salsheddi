@@ -54,7 +54,7 @@
 - <h3>💻GitHub Profile Stats</h3>
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-	 <img alt="Salsheddi's Github Stats" src="https://github-readme-stats.vercel.app/api?username=4lena&show_icons=true&count_private=true&locale=en&theme=tokyonight&layout=compact" height="230px"/></a>
+	 <img alt="Salsheddi's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Salsheddi&show_icons=true&count_private=true&locale=en&theme=tokyonight&layout=compact" height="230px"/></a>
 	<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Salsheddi&langs_count=5&show_icons=true&locale=en&theme=tokyonight" alt="7oSkaaa" height="230px"/>
 </p>
 
@@ -85,6 +85,6 @@
   </a>
 
   <a href="https://Salsheddi.github.io/SHDN./">
-    <img src="https://github.com/Salsheddi/img/blob/main/imgs/web.png" width = 51px />
+    <img src="https://raw.githubusercontent.com/4lena/img/main/imgs/web.png" width = 51px />
   </a>
 </div>
