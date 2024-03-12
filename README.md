@@ -68,7 +68,7 @@
 <!-- let's connect! -->
 
 
-## <picture> <img align="left" src="https://raw.githubusercontent.com/4lena/img/main/imgs/contact.gif" width = 300px></picture> **Contact Me**
+## <picture> <img align="left" src="https://raw.githubusercontent.com/4lena/img/main/imgs/contact.gif" width = 40px></picture> **Contact Me**
 <div>
   <a href="https://www.linkedin.com/in/shdn-alsheddi-629756227/">
     <img src="https://skillicons.dev/icons?i=linkedin" />
