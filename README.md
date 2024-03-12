@@ -35,7 +35,7 @@
 </details>
 
 <!-- get to know me -->
-## <picture><img src = "https://raw.githubusercontent.com/4lena/img/main/imgs/contact2.gif" width = 40px></picture> **Get to Know me**
+## <picture><img src = "https://github.com/4lena/img/raw/main/imgs/about.gif" width = 40px></picture> **Get to Know me**
 
 <picture> <img align="right" src="https://raw.githubusercontent.com/4lena/img/main/imgs/contact2.gif" width = 300px></picture>
 - 🏫 I'm a fresh IT graduate from King Saud University.
