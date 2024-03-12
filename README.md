@@ -37,7 +37,7 @@
 <!-- get to know me -->
 ## <picture><img src = "https://raw.githubusercontent.com/4lena/img/main/imgs/contact2.gif" width = 40px></picture> **Get to Know me**
 
-<picture> <img align="right" src="https://github.com/Salsheddi/img/blob/main/imgs/about2.gif" width = 300px></picture>
+<picture> <img align="right" src="https://raw.githubusercontent.com/4lena/img/main/imgs/contact2.gif" width = 300px></picture>
 - 🏫 I'm a fresh IT graduate from King Saud University.
 - 👀 I’m currently looking for an entry-level position.
 - 📝 I'm currently learning DevOps & Data Analysis.
