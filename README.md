@@ -37,7 +37,7 @@
 <!-- get to know me -->
 ## <picture><img src = "https://github.com/4lena/img/blob/main/imgs/about.gif" width = 40px></picture> **Get to Know me**
 
-<picture> <img align="right" src="https://github.com/4lena/img/blob/main/imgs/about2.gif" width = 300px></picture>
+<picture> <img align="right" src="https://github.com/Salsheddi/img/blob/main/imgs/about2.gif" width = 300px></picture>
 - 🏫 I'm a fresh IT graduate from King Saud University.
 - 👀 I’m currently looking for an entry-level position.
 - 📝 I'm currently learning DevOps & Data Analysis.
@@ -46,7 +46,7 @@
 
 <!-- skills -->
 ## <picture><img src = "https://github.com/Salsheddi/img/blob/main/imgs/skills.gif" width = 50px></picture> **My Skills**
-[![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,js,jquery,php,mysql,mongodb,python,r,java,docker,azure,vscode,github,git,figma,idea&perline=9)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,js,php,mysql,mongodb,python,r,java,vscode,github,git,figma,idea&perline=9)](https://skillicons.dev)
 
 <!-- my github progress -->
 ## <picture><img src = "https://github.com/Salsheddi/img/blob/main/imgs/progress.gif" width = 50px></picture> **My Github Progress**
@@ -55,7 +55,7 @@
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
 	 <img alt="Salsheddi's Github Stats" src="https://github-readme-stats.vercel.app/api?username=4lena&show_icons=true&count_private=true&locale=en&theme=tokyonight&layout=compact" height="230px"/></a>
-	<img src="https://github-readme-stats.vercel.app/api/top-langs?username=4lena&langs_count=5&show_icons=true&locale=en&theme=tokyonight" alt="7oSkaaa" height="230px"/>
+	<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Salsheddi&langs_count=5&show_icons=true&locale=en&theme=tokyonight" alt="7oSkaaa" height="230px"/>
 </p>
 
 ----
@@ -66,7 +66,7 @@
 </p>
 
 <!-- let's connect! -->
-## <picture><img src = "https://github.com/4lena/img/blob/main/imgs/contact.gif" width = 70px></picture> **Let's Connect!**
+## <picture><img src = "https://github.com/Salshedii/img/blob/main/imgs/contact.gif" width = 70px></picture> **Let's Connect!**
 
 <picture> <img align="right" src="https://github.com/Salsheddi/img/blob/main/imgs/contact2.gif" width = 300px></picture>
 <div>
