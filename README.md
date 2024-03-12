@@ -37,7 +37,7 @@
 <!-- get to know me -->
 ## <picture><img src = "https://github.com/4lena/img/raw/main/imgs/about.gif" width = 40px></picture> **Get to Know me**
 
-<picture> <img align="right" src="https://raw.githubusercontent.com/4lena/img/main/imgs/contact2.gif" width = 100px></picture>
+<picture> <img align="right" src="https://raw.githubusercontent.com/4lena/img/main/imgs/contact2.gif" width = 200px></picture>
 - 🏫 I'm a fresh IT graduate from King Saud University.
 - 👀 I’m currently looking for an entry-level position.
 - 📝 I'm currently learning DevOps & Data Analysis.
@@ -45,7 +45,7 @@
 - 📫 Reach me at shdanalsheddi@gmail.com
 
 <!-- skills -->
-## <picture><img src = "https://github.com/4lena/img/raw/main/imgs/skills.gif" width = 50px></picture> **My Skills**
+## <picture><img src = "https://github.com/4lena/img/raw/main/imgs/progress.gif" width = 50px></picture> **My Skills**
 [![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,js,php,mysql,mongodb,python,r,java,vscode,github,git,figma,idea&perline=9)](https://skillicons.dev)
 
 <!-- my github progress -->
