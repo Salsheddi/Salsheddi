@@ -1,4 +1,4 @@
-<!-- INTRO -->
+![image](https://github.com/Salsheddi/Salsheddi/assets/105097222/996359fe-d1d5-405e-b8df-084f22660b90)<!-- INTRO -->
 <h1> Hey There, I'm SHDN! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> </h1>
 <p align='center'>
 </p>
@@ -45,11 +45,11 @@
 - 📫 Reach me at shdanalsheddi@gmail.com
 
 <!-- skills -->
-## <picture><img src = "https://github.com/4lena/img/raw/main/imgs/progress.gif" width = 50px></picture> **My Skills**
+## <picture><img src = "https://raw.githubusercontent.com/4lena/img/main/imgs/skills.gif" width = 50px></picture> **My Skills**
 [![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,js,php,mysql,mongodb,python,r,java,vscode,github,git,figma,idea&perline=9)](https://skillicons.dev)
 
 <!-- my github progress -->
-## <picture><img src = "https://github.com/Salsheddi/img/blob/main/imgs/progress.gif" width = 50px></picture> **My Github Progress**
+## <picture><img src = "https://raw.githubusercontent.com/4lena/img/main/imgs/progress.gif" width = 50px></picture> **My Github Progress**
 
 - <h3>💻GitHub Profile Stats</h3>
 <p align="center">
@@ -68,7 +68,7 @@
 <!-- let's connect! -->
 
 
-<picture> <img align="right" src="https://github.com/Salsheddi/img/blob/main/imgs/contact2.gif" width = 300px></picture>
+<picture> <img align="right" src="https://raw.githubusercontent.com/4lena/img/main/imgs/contact.gif" width = 300px></picture>
 <div>
   <a href="https://www.linkedin.com/in/shdn-alsheddi-629756227/">
     <img src="https://skillicons.dev/icons?i=linkedin" />
