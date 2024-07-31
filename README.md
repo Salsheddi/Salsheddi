@@ -38,7 +38,7 @@
 ## <picture><img src = "https://github.com/4lena/img/raw/main/imgs/about.gif" width = 40px></picture> **Get to Know me**
 
 <picture> <img align="right" src="https://raw.githubusercontent.com/4lena/img/main/imgs/contact2.gif" width = 200px></picture>
-- 🏫 I'm a junior IT student from King Saud University.
+- 🏫 I'm a senior IT student from King Saud University.
 - 👀 I’m currently looking for an entry-level position.
 - 📝 I'm currently learning php& Data Analysis.
 - 👯 I love to discover new things related to technology.
